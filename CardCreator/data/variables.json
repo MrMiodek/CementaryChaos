@@ -1,0 +1,55 @@
+{
+  "version": 2.12,
+  "variables": [
+    {
+      "code": "A",
+      "type": "image",
+      "data": {
+        "uri": "%PROJECT%/A_rect.png",
+        "tint": "#FFFFFFFF",
+        "offset": "0, 0",
+        "scale": "1, 1"
+      }
+    },
+    {
+      "code": "B",
+      "type": "image",
+      "data": {
+        "uri": "%PROJECT%/B_arrow.png",
+        "tint": "#FFFFFFFF",
+        "offset": "0, 0",
+        "scale": "1, 1"
+      }
+    },
+    {
+      "code": "C",
+      "type": "image",
+      "data": {
+        "uri": "%PROJECT%/C_oval.png",
+        "tint": "#FFFFFFFF",
+        "offset": "0, 0",
+        "scale": "1, 1"
+      }
+    },
+    {
+      "code": "D",
+      "type": "image",
+      "data": {
+        "uri": "%PROJECT%/D_pent.png",
+        "tint": "#FFFFFFFF",
+        "offset": "0, 0",
+        "scale": "1, 1"
+      }
+    },
+    {
+      "code": "E",
+      "type": "image",
+      "data": {
+        "uri": "%PROJECT%/E_pane.png",
+        "tint": "#FFFFFFFF",
+        "offset": "0, 0",
+        "scale": "1, 1"
+      }
+    }
+  ]
+}
